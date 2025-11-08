@@ -4,7 +4,6 @@ API moderna y profesional para gestionar estudiantes con **FastAPI**, **SQLite**
 
 ---
 
-## ⚡ Comienza en 5 Minutos
 
 ### 1️⃣ Instalar Dependencias
 
