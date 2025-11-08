@@ -55,13 +55,8 @@ aca_pw/
 ├── tests/
 │   └── test_api.py               # 🧪 Pruebas automatizadas
 │
-├── 📚 DOCUMENTACIÓN
-│   ├── README.md                 # Este archivo
-│   ├── ARQUITECTURA.md           # Diseño en capas
-│   └── DOCUMENTACION_TECNICA.md  # Guía técnica detallada
-│
-└── 📦 CONFIGURACIÓN
-    └── requirements.txt          # Dependencias
+│── README.md                 # Este archivo
+└── requirements.txt          # Dependencias
 ```
 
 ---
